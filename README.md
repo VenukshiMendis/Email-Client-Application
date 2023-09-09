@@ -16,13 +16,18 @@ This Java Email Client application is designed to provide an efficient email man
 
 1. JavaMail API - This application uses the JavaMail API to perform email-sending operations.
 
+### Project Components
+1. User Interface: "Email_Client.java" serves as the user interface for the application, providing an intuitive way for users to interact with the email client.
+2. Java Mail Implementation: "Send_Mail.java" and "Email_Util" handle the implementation of sending emails.
+3. Object Serialization and Deserialization: "Serialize_Deserialize.java" is responsible for the efficient storage and retrieval of email data using object serialization and deserialization.
+
 ### Prerequisites
 
 1. Object-oriented programming Concepts
 2. Objects Serialization & Deserialization
 
 ### General Constraints
-To send emails using the application, you need to provide a valid sender email ID and its corresponding password within the Send_Mail.java file. This information is necessary for authentication with the email server. <br>
+To send emails using the application, you need to provide a valid sender email ID and its corresponding password within the "Send_Mail.java" file. This information is necessary for authentication with the email server. <br>
 To generate an application-specific password, please refer to the instructions provided by your email service provider. For example, you can find instructions for Gmail at https://support.google.com/mail/answer/185833?hl=en.
 
 
