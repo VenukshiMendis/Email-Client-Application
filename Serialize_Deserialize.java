@@ -56,8 +56,7 @@ public class Serialize_Deserialize {
 		ObjectOutputStream os2 = new ObjectOutputStream(new FileOutputStream(file_name, true)) {
             protected void writeStreamHeader() throws IOException {
                 reset();
-                //System.out.println("I am called");  
-               // super.writeStreamHeader();
+                
             	
             }
         };
