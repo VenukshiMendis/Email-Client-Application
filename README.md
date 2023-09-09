@@ -12,6 +12,10 @@ This Java Email Client application is designed to provide an efficient email man
 4. **Email History Retrieval**: The application facilitates users to retrieve information regarding all emails sent on a specific day.
 5. **Persistent Storage**: All emails sent via the email client are stored on the local hard disk as serialized objects. This implementation uses the concepts of object serialization and deserialization for efficient data persistence.
 
+### Requirements
+
+1. JavaMail API - This application uses the JavaMail API to perform email-sending operations.
+
 ### Prerequisites
 
 1. Object-oriented programming Concepts
