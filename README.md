@@ -17,6 +17,11 @@ This Java Email Client application is designed to provide an efficient email man
 1. Object-oriented programming Concepts
 2. Objects Serialization & Deserialization
 
+### General Constraints
+To send emails using the application, you need to provide a valid sender email ID and its corresponding password within the Send_Mail.java file. This information is necessary for authentication with the email server.
+To generate an application-specific password, please refer to the instructions provided by your email service provider. For example, you can find instructions for Gmail at https://support.google.com/mail/answer/185833?hl=en.
+
+
 
 
 
