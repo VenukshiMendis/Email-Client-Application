@@ -20,8 +20,8 @@ public class Send_Mail { //
 		 */
 		
 		public void send_email(Email email) {
-			final String fromEmail = "venukshinaradha@gmail.com"; //requires valid gmail id
-			final String password = "wili pncb txmg evzy"; // correct password for gmail id 
+			final String fromEmail = "..........."; //requires valid gmail id
+			final String password = ".........."; // correct password for gmail id 
 			
 			System.out.println("SSLEmail Start");
 			Properties props = new Properties();
