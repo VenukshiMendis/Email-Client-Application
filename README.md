@@ -18,7 +18,7 @@ This Java Email Client application is designed to provide an efficient email man
 
 ### Project Components
 1. User Interface: "Email_Client.java" serves as the user interface for the application, providing an intuitive way for users to interact with the email client.
-2. Java Mail Implementation: "Send_Mail.java" and "Email_Util" handle the implementation of sending emails.
+2. Java Mail Implementation: "Send_Mail.java" handles the sending of emails.
 3. Object Serialization and Deserialization: "Serialize_Deserialize.java" is responsible for the efficient storage and retrieval of email data using object serialization and deserialization.
 
 ### Prerequisites
